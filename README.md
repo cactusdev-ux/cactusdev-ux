@@ -27,8 +27,6 @@
 
 ---
 
-## 📊 آمار گیت‌هاب
-
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=cactusdev-ux&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cactusdev-ux&layout=compact&theme=radical" width="48%" />
