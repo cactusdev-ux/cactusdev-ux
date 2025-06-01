@@ -8,9 +8,10 @@
 
 ## 🚀 درباره من
 
-- 🖥️ **تخصص** → طراحی و توسعه وب با استفاده از تکنولوژی‌های مدرن  
-- 🌐 **وب‌سایت** → [cactus-dev.ir](https://cactus-dev.ir)  
-- ✉️ **ایمیل** → [info@cactus-dev.ir](mailto:info@cactus-dev.ir)
+- 🖥️ **تخصص:** طراحی و توسعه وب با استفاده از تکنولوژی‌های روز دنیا
+- 🌐 **وب‌سایت:** [cactus-dev.ir](https://cactus-dev.ir)
+- ✉️ **ایمیل:** [info@cactus-dev.ir](mailto:info@cactus-dev.ir)
+- 🤝 **همکاری:** همیشه آماده همکاری با تیم‌ها و پروژه‌های جدید
 
 ---
 
@@ -23,6 +24,9 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat" />
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" />
 </p>
 
 ---
@@ -38,7 +42,7 @@
 
 ## 🌱 هدف من
 
-همیشه در حال یادگیریم. دوست دارم با توسعه‌دهنده‌های دیگه همکاری کنم و ابزارهایی بسازم که واقعا مفید باشن.
+همیشه در حال یادگیریم و به دنبال رشد و پیشرفت مداوم. دوست دارم با توسعه‌دهنده‌های دیگر همکاری کنم و ابزارهایی بسازم که واقعا مفید باشند و به جامعه کمک کنند.
 
 ---
 
