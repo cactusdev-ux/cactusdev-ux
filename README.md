@@ -1,33 +1,33 @@
-<h1 align="center">👋 سلام! من @cactusdev-ux هستم</h1>
+# 👋 Hey, I’m Cactus Dev
 
-<p align="center">
-به گیت‌هاب من خوش اومدی 🌵  
-برای شناخت بهتر من می‌تونی به  
-<a href="https://cactus-dev.ir" target="_blank">cactus-dev.ir</a> سر بزنی!
-</p>
+I’m a passionate developer crafting clean, efficient, and modern software solutions.  
+I love working with Git, open-source projects, and building tools that help developers thrive.
 
 ---
 
-## 👀 علایق من
-<img src="https://img.shields.io/badge/Frontend-Development-blue?style=flat&logo=react" alt="Frontend" />
-<img src="https://img.shields.io/badge/UI%2FUX-Design-purple?style=flat&logo=figma" alt="UI/UX" />
-<img src="https://img.shields.io/badge/Open%20Source-Love-green?style=flat&logo=github" alt="Open Source" />
+### 🌍 About Me
+
+- 🏠 **Website** → [cactus-dev.ir](https://cactus-dev.ir)  
+- 🛠 **Skills** → ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) 
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat) 
+  ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat) 
+  ![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0A0A?logo=githubactions&logoColor=white&style=flat) 
+  ![DevOps](https://img.shields.io/badge/-DevOps-1182C3?logo=azuredevops&logoColor=white&style=flat)  
+- 📫 **Contact** → cactus [at] cactus-dev.ir  
+
+> _“Code is like cactus — sharp, resilient, and beautiful.”_
 
 ---
 
-## 📫 راه‌های ارتباطی
-<a href="https://cactus-dev.ir" target="_blank">
-  <img src="https://img.shields.io/badge/Website-cactus--dev.ir-darkgreen?style=flat&logo=google-chrome" alt="Website" />
-</a>
-<a href="mailto:info@cactus-dev.ir">
-  <img src="https://img.shields.io/badge/Email-info%40cactus--dev.ir-red?style=flat&logo=gmail" alt="Email" />
-</a>
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 ---
 
-<p align="center">
-<!---
-cactusdev-ux/cactusdev-ux یک ریپازیتوری ✨ خاص ✨ است چون فایل `README.md` (همین فایل) روی پروفایل گیت‌هاب شما نمایش داده می‌شود.
-می‌توانید روی لینک Preview کلیک کنید تا تغییرات را ببینید.
---->
-</p>
+### 🌱 Always Growing
+
+Let’s collaborate on cool ideas, solve problems, and push code to make an impact.
+
+---
