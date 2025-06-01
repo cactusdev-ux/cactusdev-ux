@@ -1,31 +1,51 @@
-# 👋 Hey, I’m Cactus Dev
-
-I’m a passionate developer crafting clean, efficient, and modern software solutions.  
-I love working with Git, open-source projects, and building tools that help developers thrive.
+<h1 align="center">👋 سلام! من Cactus Dev هستم</h1>
+<p align="center">
+  توسعه‌دهنده وب با تمرکز بر ساخت رابط‌های کاربری مدرن، واکنش‌گرا و کاربرپسند.<br>
+  عاشق کدنویسی تمیز، تجربه کاربری عالی، و ساخت ابزارهای مفید برای توسعه‌دهنده‌ها هستم.
+</p>
 
 ---
 
-### 🌍 About Me
+## 🚀 درباره من
 
-- 🏠 **Website** → [cactus-dev.ir](https://cactus-dev.ir)  
-- 🛠 **Skills** → ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) 
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat) 
-  ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat) 
-  ![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0A0A?logo=githubactions&logoColor=white&style=flat) 
-  ![DevOps](https://img.shields.io/badge/-DevOps-1182C3?logo=azuredevops&logoColor=white&style=flat)  
-- 📫 **Contact** → cactus [at] cactus-dev.ir  
+- 🖥️ **تخصص** → طراحی و توسعه وب با استفاده از تکنولوژی‌های مدرن  
+- 🌐 **وب‌سایت** → [cactus-dev.ir](https://cactus-dev.ir)  
+- 📫 **ایمیل** → cactus [at] cactus-dev.ir  
+
+---
+
+## 🛠️ مهارت‌ها
+
+<p align="right">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat" />
+</p>
+
+---
+
+## 📊 آمار گیت‌هاب
+
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=cactusdev-ux&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cactusdev-ux&layout=compact&theme=radical" width="48%" />
+</p>
+
+---
+
+## 🌱 هدف من
+
+همیشه در حال یادگیریم. دوست دارم با توسعه‌دهنده‌های دیگه همکاری کنم و ابزارهایی بسازم که واقعا مفید باشن.
+
+---
 
 > _“Code is like cactus — sharp, resilient, and beautiful.”_
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cactusdev-ux&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cactusdev-ux&layout=compact&theme=radical)
-
----
-
-### 🌱 Always Growing
-
-Let’s collaborate on cool ideas, solve problems, and push code to make an impact.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08c2ff,100:ff68aa&height=120&section=footer"/>
+</p>
