@@ -11,18 +11,7 @@
 ## 👀 علایق من
 <img src="https://img.shields.io/badge/Frontend-Development-blue?style=flat&logo=react" alt="Frontend" />
 <img src="https://img.shields.io/badge/UI%2FUX-Design-purple?style=flat&logo=figma" alt="UI/UX" />
-
----
-
-## 🌱 در حال یادگیری
-<img src="https://img.shields.io/badge/React-Next.js-black?style=flat&logo=next.js" alt="Next.js" />
-<img src="https://img.shields.io/badge/Framer-Motion-pink?style=flat&logo=framer" alt="Framer Motion" />
-
----
-
-## 💞️ همکاری‌ها
-<img src="https://img.shields.io/badge/Open%20Source-Contribution-brightgreen?style=flat&logo=github" alt="Open Source" />
-<img src="https://img.shields.io/badge/UX%20Focused-Projects-orange?style=flat&logo=visualstudiocode" alt="UX Projects" />
+<img src="https://img.shields.io/badge/Open%20Source-Love-green?style=flat&logo=github" alt="Open Source" />
 
 ---
 
