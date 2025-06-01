@@ -21,13 +21,11 @@ I love working with Git, open-source projects, and building tools that help deve
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cactusdev-ux&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cactusdev-ux&layout=compact&theme=radical)
 
 ---
 
 ### 🌱 Always Growing
 
 Let’s collaborate on cool ideas, solve problems, and push code to make an impact.
-
----
